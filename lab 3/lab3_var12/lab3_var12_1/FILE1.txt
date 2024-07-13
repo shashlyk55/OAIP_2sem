@@ -1,0 +1,6 @@
+file text 
+open file
+read information
+close file
+8595.,mnhg
+5596;'lkjhgbvrd yb b

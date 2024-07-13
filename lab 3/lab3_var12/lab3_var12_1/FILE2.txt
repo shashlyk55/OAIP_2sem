@@ -1,0 +1,3 @@
+file text 
+open file
+close file
